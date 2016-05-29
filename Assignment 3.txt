@@ -1,0 +1,4 @@
+Create = .new, .save,
+Read = .find, .all
+Update = .update
+Delete = .delete
